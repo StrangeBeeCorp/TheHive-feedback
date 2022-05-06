@@ -1,6 +1,6 @@
-## TheHive 5 issues
+## TheHive 5 Feedback
 
-This repository is dedicated to gather issues about TheHive v5. 
+This repository is dedicated to gather feedback and issues about TheHive v5. 
 For issues concerning TheHive v4 or v3, go to [the opensource repository](https://github.com/TheHive-Project/TheHive).
 
 
